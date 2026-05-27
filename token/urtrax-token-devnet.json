@@ -2,13 +2,13 @@
   "name": "URTRAX Token",
   "symbol": "URTRAX",
   "description": "Devnet URTRAX test token for urTrax rewards, wallet, VIBES, and claim-flow testing.",
-  "image": "https://cdn.jsdelivr.net/gh/urTrax/urtrax-token-metadata@main/token/urtrax-logo.png",
+  "image": "https://cdn.jsdelivr.net/gh/urTrax/urtrax-token-metadata@a99ad6a9946ef2bcae65ffffcce508cdcb773583/token/urtrax-token-logo-wallet-1024.png",
   "external_url": "https://urtrax.app",
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/urTrax/urtrax-token-metadata@main/token/urtrax-logo.png",
+        "uri": "https://cdn.jsdelivr.net/gh/urTrax/urtrax-token-metadata@a99ad6a9946ef2bcae65ffffcce508cdcb773583/token/urtrax-token-logo-wallet-1024.png",
         "type": "image/png"
       }
     ]
